@@ -1,5 +1,5 @@
-# Changelog
+# TRON-Family Desktop Wallet (BETA) Changelog
 
-## 1.0.0.226
-### Improve size of application
-### Fix some small bugs
+## Version 1.0.0.226
+Improve size of application
+Fix some small bugs
