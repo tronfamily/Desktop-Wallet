@@ -1,5 +1,15 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.231
+
+- fix notify icon
+
+## Version 1.0.0.230
+
+- fix unfreeze
+- Adjusting the colors and how the filter buttons work
+- DEX1 improvement
+
 ## Version 1.0.0.229
 
 - fix error if PK is not present
