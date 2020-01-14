@@ -1,5 +1,15 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.229
+
+- fix error if PK is not present
+- fix custom send (send not available)
+- fix precision trx (airdrop)
+- add blacklist feature (airdrop)
+- add rake, dice, live to transaction-analyze
+- change - set new imported wallets as active
+- add progressbar to custom send
+
 ## Version 1.0.0.228
 
 - fix code for testing in shasta testnet
