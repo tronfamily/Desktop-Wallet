@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.232 (unreleased)
+
+- refactoring dashboard
+
 ## Version 1.0.0.231
 
 - fix notify icon
