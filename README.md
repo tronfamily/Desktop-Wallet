@@ -1,8 +1,29 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
-## Version 1.0.0.232 (unreleased)
+## Version 1.0.0.233 
 
 - refactoring dashboard
+- add favorites for portefolio
+- add token logo for portefolio
+- add favorites for polonidex
+- add favorites for trontrade
+- add value board (dashboard)
+- add value board (network)
+- add create trc10 token
+- add create exchange contract
+- add deposit / withdrawl exchange contract
+- add selectionlist to wallet section
+- add dock to desktop left/right/up/down
+- add dynamic reload transactionslist
+- move export transaction to configuration
+- add cointracking (configuration)
+- remove bancor trading
+- fix issues distribute
+- fix issues transactions
+
+## Version 1.0.0.232
+
+- fix issues
 
 ## Version 1.0.0.231
 
