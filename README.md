@@ -1,5 +1,11 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.234
+
+- correct SEND Button
+- remove "show all orders"
+- fix sidechain request
+
 ## Version 1.0.0.233 
 
 - refactoring dashboard
