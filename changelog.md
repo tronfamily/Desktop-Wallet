@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.237
+
+- fix double entrys (addressbook)
+
 ## Version 1.0.0.236
 
 - fixed get tokenholder (Distribution)
