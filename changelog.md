@@ -1,6 +1,6 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
-## Version 1.0.0.236 (unreleased)
+## Version 1.0.0.236
 
 - fixed get tokenholder (Distribution)
 - fixed trc20 transfer with ledger
