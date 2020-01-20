@@ -3,6 +3,8 @@
 ## Version 1.0.0.236 (unreleased)
 
 - fixed get tokenholder (Distribution)
+- fixed trc20 transfer with ledger
+- fixed walletchange in Walletarea
 
 ## Version 1.0.0.235
 
