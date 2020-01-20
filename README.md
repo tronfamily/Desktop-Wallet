@@ -1,5 +1,13 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.235
+
+- fix crash old favorite file
+- icon handle
+- fix add addressbook
+- fix delete wallet
+- fix check activated wallet
+
 ## Version 1.0.0.234
 
 - correct SEND Button
