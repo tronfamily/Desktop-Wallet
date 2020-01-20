@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.236 (unreleased)
+
+- fixed get tokenholder (Distribution)
+
 ## Version 1.0.0.235
 
 - fix crash old favorite file
