@@ -16,6 +16,7 @@ https://www.tron-family.de
 - unfreeze bandwidth / energy 
 - unfreeze of provided bandwidth / energy
 - Votes of one or more Super Representatives
+- Reward Calculation for SR/C with activated reward distribution mechanism
 - show unwithdrawn rewards
 - collect rewards
 - Address Book Function
