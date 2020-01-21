@@ -1,6 +1,6 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
-## Version 1.0.0.238 (unreleased)
+## Version 1.0.0.238
 
 - fix if ledger is connected before login
 - fix show rewards after change wallet
