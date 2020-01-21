@@ -1,5 +1,10 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.240
+
+- fix vote with Ledger-Device (Wallet)
+- improve Ledgerconnections
+
 ## Version 1.0.0.239
 
 - fix button-crash (Distribution)
