@@ -1,5 +1,12 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.238 (unreleased)
+
+- fix if ledger is connected before login
+- fix show rewards after change wallet
+- add notify if wrong ledger is connected
+- error handling
+
 ## Version 1.0.0.237
 
 - fix double entrys (addressbook)
