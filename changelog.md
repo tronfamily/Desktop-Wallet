@@ -1,8 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
-## Version 1.0.0.239 (unreleased)
+## Version 1.0.0.239
 
 - fix button-crash (Distribution)
+- add reward calculation (Wallet)
 
 ## Version 1.0.0.238
 
