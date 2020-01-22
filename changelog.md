@@ -3,6 +3,7 @@
 ## Version 1.0.0.241 (unreleased)
 
 - add sort of wallets
+- fix internal name cache
 
 ## Version 1.0.0.240
 
