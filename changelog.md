@@ -2,8 +2,11 @@
 
 ## Version 1.0.0.241 (unreleased)
 
+- renewal code signing certificate to 2021
 - add sort of wallets
 - fix internal name cache
+- fix freeze description
+- fix something little bugs
 
 ## Version 1.0.0.240
 
