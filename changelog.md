@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.243
+
+- fix button positions (Distribution)
+
 ## Version 1.0.0.242
 
 - fix overlap buttons (Distribution)
