@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.244 (unpublished)
+
+- fix issue calculate job (Distribution)
+
 ## Version 1.0.0.243
 
 - fix button positions (Distribution)
