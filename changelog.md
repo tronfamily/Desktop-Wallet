@@ -1,8 +1,21 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
-## Version 1.0.0.244 (unpublished)
+## Version 1.0.0.246
 
 - fix issue calculate job (Distribution)
+
+## Version 1.0.0.245
+
+- fix issue calculate job (Distribution)
+- fix issue with TRC10 Import Precision (Distribution)
+- fix favorite change TronTrade (DEX)
+- fix progress TronTrade (User Orders)
+- Adding known wallets (General)
+- fix ALL Buttons (Wallet)
+
+## Version 1.0.0.244
+
+- fix versioning (General)
 
 ## Version 1.0.0.243
 
