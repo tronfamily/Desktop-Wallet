@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.249
+
+- fix refresh trx balance (Distribution)
+
 ## Version 1.0.0.248
 
 - remove Bandwidth/Energy Info (Distribution)
