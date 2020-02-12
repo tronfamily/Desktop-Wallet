@@ -1,5 +1,10 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.248
+
+- remove Bandwidth/Energy Info (Distribution)
+- add sent / confirmed / error Info (Distribution)
+
 ## Version 1.0.0.247
 
 - fix resend (Distribution)
