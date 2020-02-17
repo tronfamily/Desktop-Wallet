@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.250
+
+- add blacklist per job (Distribution)
+
 ## Version 1.0.0.249
 
 - fix refresh trx balance (Distribution)
