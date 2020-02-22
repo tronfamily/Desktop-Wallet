@@ -1,5 +1,11 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.251
+
+- prevent double click on send / verify (Distribution)
+- fix correct values (unfreezable)
+- fix crash on unfreeze
+
 ## Version 1.0.0.250
 
 - add blacklist per job (Distribution)
