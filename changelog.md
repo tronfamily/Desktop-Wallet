@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.252
+
+- remove days - inputfield (freeze)
+
 ## Version 1.0.0.251
 
 - prevent double click on send / verify (Distribution)
