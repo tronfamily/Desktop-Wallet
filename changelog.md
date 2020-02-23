@@ -1,5 +1,13 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.254
+
+- improved user guidance - quicksend
+
+## Version 1.0.0.253
+
+- improved performance witness update / caching
+
 ## Version 1.0.0.252
 
 - remove days - inputfield (freeze)
