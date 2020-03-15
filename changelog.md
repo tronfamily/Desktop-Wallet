@@ -1,5 +1,17 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.259
+
+- starting game section
+
+## Version 1.0.0.258
+
+- add div payout to transactionslist
+
+## Version 1.0.0.257
+
+- fix precision (Distribution)
+
 ## Version 1.0.0.256
 
 - workaround broken trc20 api / fixed amounts
