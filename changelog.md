@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.256
+
+- workaround broken trc20 api / fixed amounts
+
 ## Version 1.0.0.255
 
 - add wink freeze / unfreeze
