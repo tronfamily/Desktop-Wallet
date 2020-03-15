@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.255
+
+- add wink freeze / unfreeze
+
 ## Version 1.0.0.254
 
 - improved user guidance - quicksend
