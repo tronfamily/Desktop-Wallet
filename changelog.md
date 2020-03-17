@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.261
+
+- add cancel button wink/dice
+
 ## Version 1.0.0.260
 
 - extend game section
