@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.260
+
+- extend game section
+
 ## Version 1.0.0.259
 
 - starting game section
