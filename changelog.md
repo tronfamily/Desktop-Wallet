@@ -1,5 +1,10 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.264
+
+- improve unfreeze wink
+- fix distribution
+
 ## Version 1.0.0.263
 
 - improve transactions
