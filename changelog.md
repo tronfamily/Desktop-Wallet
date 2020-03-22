@@ -1,5 +1,10 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.265
+
+- add TGCT to Exchange
+- add TGCT Swap to Gaming Section
+
 ## Version 1.0.0.264
 
 - improve unfreeze wink
