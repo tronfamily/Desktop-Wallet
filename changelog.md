@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.266
+
+- change sort
+
 ## Version 1.0.0.265
 
 - add TGCT to Exchange
