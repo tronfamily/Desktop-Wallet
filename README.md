@@ -30,6 +30,8 @@ https://www.tron-family.de
 - Automatic caching of wallet names, addresses, tokens, logos to reduce the number of queries
 - Overview of super representatives / partners / candidates
 - Overview of the TRON network
+- Freeze / Unfreeze / Withdraw WINK/DICE with Ledger support
+- SWAP TGCT Token
 
 ### Airdrop / mass distribution
 - Blend mode (TRX, TRC10, TRC20)
