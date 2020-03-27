@@ -1,5 +1,10 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.267
+
+- improve performance
+- fix error handling tokenholder
+
 ## Version 1.0.0.266
 
 - change sort
