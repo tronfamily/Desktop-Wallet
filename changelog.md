@@ -1,5 +1,10 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.268
+
+- fix tokenlist
+- improve polonidex (realtime)
+
 ## Version 1.0.0.267
 
 - improve performance
