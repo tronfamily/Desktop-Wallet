@@ -1,5 +1,10 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.269
+
+- fix tokenlist (trc20)
+- add usdj (djed)
+
 ## Version 1.0.0.268
 
 - fix tokenlist
