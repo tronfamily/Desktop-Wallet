@@ -1,5 +1,10 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.270
+
+- add FAT as payment method
+- fix issue exchange price fields
+
 ## Version 1.0.0.269
 
 - fix tokenlist (trc20)
