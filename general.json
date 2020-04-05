@@ -1,0 +1,43 @@
+{
+  "Dividends": [
+    {
+      "Name": "WINK",
+      "Type": "WIN-TRX",
+      "Tokentype": "TRX",
+      "Contractaddress": "",
+      "TokenID": 0,
+      "Address": "TGVtEmiB9EH4Rt1sEvvsaaBCQHvBVEkvYN"
+    },
+    {
+      "Name": "WINK",
+      "Type": "WIN-USDT",
+      "Tokentype": "TRC20",
+      "Contractaddress": "TRyzgWGjzvXx88ExpHS8L9DXxwTtNEaN68",
+      "TokenID": 0,
+      "Address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t"
+    }
+  ],
+  "Wallet": [
+    {
+      "Name": "Binance-Hot-Wallet",
+      "Type": "Exchange",
+      "Address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7"
+    },
+    {
+      "Name": "Huobi",
+      "Type": "Exchange",
+      "Address": "TNaRAoLUyYEV2uF7GUrzSjRQTU8v5ZJ5VR"
+    }
+  ],
+  "CustomReward": [
+    {
+      "Name": "TRON-Family",
+      "TokenName": "FAT",
+      "WitnessAddress": "TWGGB35HUudizmcLheQN7kANDnD8KfgKkK",
+      "Brokerage": 80,
+      "PayoutTokenType": "TRC10",
+      "PayoutTokenID": 1002939,
+      "TRC20Contractaddress": ""
+    }
+  ]
+}
