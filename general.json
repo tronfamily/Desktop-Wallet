@@ -37,6 +37,7 @@
       "Brokerage": 80,
       "PayoutTokenType": "TRC10",
       "PayoutTokenID": 1002939,
+      "PayoutTimes": 4,
       "PoloniDexID": 385,
       "TRC20Contractaddress": ""
     }
