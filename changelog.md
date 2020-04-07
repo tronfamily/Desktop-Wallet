@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.272
+
+- fix issue (Change wallet)
+
 ## Version 1.0.0.271
 
 - fix usdj (replace usdj-test with usdj)
