@@ -1,5 +1,14 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.273
+
+- Portefolio Table fixed
+- add Live info
+ -add dlive staking
+- fix address qrcode
+- add refresh button dashboard
+- add estimated bandwidth & energy info (Distribution)
+
 ## Version 1.0.0.272
 
 - fix issue (Change wallet)
