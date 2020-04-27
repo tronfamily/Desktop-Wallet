@@ -1,5 +1,10 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.274-277
+
+- improve speed
+- fix some bugs
+
 ## Version 1.0.0.273
 
 - Portefolio Table fixed
