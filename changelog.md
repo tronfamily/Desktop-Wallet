@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.281
+
+- add selection of calculation for distributionlist
+
 ## Version 1.0.0.280
 
 - improve speed
