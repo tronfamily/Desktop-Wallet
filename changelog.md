@@ -1,5 +1,13 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.287
+
+- fix send TRC20 with 18 decimals (JST and all other) with Ledger
+
+## Version 1.0.0.282-286
+
+- several optimations
+
 ## Version 1.0.0.281
 
 - add selection of calculation for distributionlist
