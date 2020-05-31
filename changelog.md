@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.289
+
+- fix addressbook issue
+
 ## Version 1.0.0.288
 
 - fix buy/sell polonidex with 18 decimals
