@@ -1,5 +1,13 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.290
+
+- Poloniex TRX/USDT Trading Pair Fix
+- Correct display Airdrop
+- Add feature Network / Connection check (OFFLINE MODE)
+- Add feature Factory Reset
+- Add feature Backup / Recovery
+
 ## Version 1.0.0.289
 
 - fix addressbook issue
