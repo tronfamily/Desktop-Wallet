@@ -1,5 +1,10 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.291-293
+
+- Poloniex improve user experience
+- Dashboard several fixes
+
 ## Version 1.0.0.290
 
 - Poloniex TRX/USDT Trading Pair Fix
