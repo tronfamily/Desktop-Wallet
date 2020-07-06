@@ -1,5 +1,11 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.295
+
+- Improve performance
+- fix transactionlist
+- some other little fixes
+
 ## Version 1.0.0.294
 
 - Behavior improved when trying to make a transaction via the ledger and no ledger is connected.
