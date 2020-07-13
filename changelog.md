@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.296
+
+- Change tokenholder API / Airdrop Module
+
 ## Version 1.0.0.295
 
 - Improve performance
