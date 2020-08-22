@@ -16,6 +16,57 @@
       "PoloniDexID": 385,
       "TronTradeID": 0,
       "TRC20Contractaddress": ""
+    },
+    {
+      "Name": "CryptoChain",
+      "WitnessAddress": "",
+      "PayOutAddress": "",
+      "BlockRewards": true,
+      "BlockRewardsPercent": 90,
+      "VoteRewards": true,
+      "VoteRewardsPercent": 90,
+      "Description": "",
+      "TokenName": "TRX",
+      "PayoutTokenType": "",
+      "PayoutTokenID": 0,
+      "PayoutTimes": 1,
+      "PoloniDexID": 0,
+      "TronTradeID": 0,
+      "TRC20Contractaddress": ""
+    },
+    {
+      "Name": "Sesameseed",
+      "WitnessAddress": "",
+      "PayOutAddress": "",
+      "BlockRewards": false,
+      "BlockRewardsPercent": 0,
+      "VoteRewards": true,
+      "VoteRewardsPercent": 80,
+      "Description": "",
+      "TokenName": "Seed",
+      "PayoutTokenType": "TRC20",
+      "PayoutTokenID": 0,
+      "PayoutTimes": 1,
+      "PoloniDexID": 511,
+      "TronTradeID": 0,
+      "TRC20Contractaddress": ""
+    },
+    {
+      "Name": "SR-TRON-Europe",
+      "WitnessAddress": "TN2MEB71iox2mDwwngdTrUyUZXeENcb79F",
+      "PayOutAddress": "TWWP1XN9CYNwxYakKoijoiCAScampzQbNg",
+      "BlockRewards": false,
+      "BlockRewardsPercent": 0,
+      "VoteRewards": true,
+      "VoteRewardsPercent": 50,
+      "Description": "SR-TRON-Europe",
+      "TokenName": "TERC",
+      "PayoutTokenType": "TRC10",
+      "PayoutTokenID": 1003075,
+      "PayoutTimes": 4,
+      "PoloniDexID": 436,
+      "TronTradeID": 50,
+      "TRC20Contractaddress": ""
     }
   ]
 }
