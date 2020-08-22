@@ -1,0 +1,21 @@
+{
+  "customReward": [
+    {
+      "Name": "TRON-Family",
+      "WitnessAddress": "TWGGB35HUudizmcLheQN7kANDnD8KfgKkK",
+      "PayOutAddress": "TSuNC2BAoFAYKLanwAMmBwFU3xPQQNHHJ7",
+      "BlockRewards": true,
+      "BlockRewardsPercent": 80,
+      "VoteRewards": true,
+      "VoteRewardsPercent": 80,
+      "Description": "TRON-Family SRP",
+      "TokenName": "FAT",
+      "PayoutTokenType": "TRC10",
+      "PayoutTokenID": 1002939,
+      "PayoutTimes": 4,
+      "PoloniDexID": 385,
+      "TronTradeID": 0,
+      "TRC20Contractaddress": ""
+    }
+  ]
+}
