@@ -109,6 +109,24 @@
       "TRC20Contractaddress": ""
     },
     {
+      "Name": "BeatzCoin",
+      "WitnessAddress": "",
+      "PayOutAddress": "",
+      "BlockRewards": true,
+      "BlockRewardsPercent": 0,
+      "VoteRewards": true,
+      "VoteRewardsPercent": 50,
+      "Description": "",
+      "TokenName": "BTZC",
+      "PayoutTokenType": "TRC10",
+      "PayoutTokenID": 0,
+      "Multi": 1,
+      "PayoutTimes": 1,
+      "PoloniDexID": 87,
+      "TronTradeID": 0,
+      "TRC20Contractaddress": ""
+    },
+    {
       "Name": "SR-TRON-Europe",
       "WitnessAddress": "TN2MEB71iox2mDwwngdTrUyUZXeENcb79F",
       "PayOutAddress": "TWWP1XN9CYNwxYakKoijoiCAScampzQbNg",
