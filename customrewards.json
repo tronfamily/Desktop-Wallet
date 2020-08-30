@@ -127,6 +127,24 @@
       "TRC20Contractaddress": ""
     },
     {
+      "Name": "TronSpark",
+      "WitnessAddress": "",
+      "PayOutAddress": "",
+      "BlockRewards": true,
+      "BlockRewardsPercent": 91,
+      "VoteRewards": true,
+      "VoteRewardsPercent": 91,
+      "Description": "",
+      "TokenName": "TRX",
+      "PayoutTokenType": "TRC10",
+      "PayoutTokenID": 0,
+      "Multi": 1,
+      "PayoutTimes": 4,
+      "PoloniDexID": 0,
+      "TronTradeID": 0,
+      "TRC20Contractaddress": ""
+    },
+    {
       "Name": "SR-TRON-Europe",
       "WitnessAddress": "TN2MEB71iox2mDwwngdTrUyUZXeENcb79F",
       "PayOutAddress": "TWWP1XN9CYNwxYakKoijoiCAScampzQbNg",
