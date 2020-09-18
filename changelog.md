@@ -1,5 +1,14 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.297-302
+
+- Add option to configuration Auto-Refresh Wallet
+- Add option to configuration Auto-Refresh Transactionlist
+- Add Button to manual refresh transactions
+- Fix TronTrade Orderbook
+- Add Wallet-Refresh Button to Trading-Section
+- Reorganize Wallet-Section
+
 ## Version 1.0.0.296
 
 - Change tokenholder API / Airdrop Module
