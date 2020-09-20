@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.303
+
+- fix token and witness
+
 ## Version 1.0.0.297-302
 
 - Add option to configuration Auto-Refresh Wallet
