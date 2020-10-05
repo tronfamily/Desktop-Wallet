@@ -1,5 +1,11 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.304-305
+
+- fix rronTrade Buy/Sell
+- improve performance
+- add polonidex range cancel tool
+
 ## Version 1.0.0.303
 
 - fix token and witness
