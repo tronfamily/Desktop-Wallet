@@ -2,7 +2,7 @@
 
 ## Version 1.0.0.304-305
 
-- fix rronTrade Buy/Sell
+- fix TronTrade Buy/Sell
 - improve performance
 - add polonidex range cancel tool
 
