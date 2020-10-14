@@ -1,5 +1,10 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.307
+
+- add SunToken Symbol
+- add Klever Symbol
+
 ## Version 1.0.0.306
 
 - add TRON Bitcoin Price / Symbol
