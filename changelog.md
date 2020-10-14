@@ -1,5 +1,10 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.306
+
+- add TRON Bitcoin Price / Symbol
+- fix Refresh Button
+
 ## Version 1.0.0.304-305
 
 - fix TronTrade Buy/Sell
