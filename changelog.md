@@ -1,5 +1,15 @@
 # TRON-Family Desktop Wallet (BETA) Changelog
 
+## Version 1.0.0.309
+
+- increase performance token search
+- fix issues in distribution
+
+## Version 1.0.0.308
+
+- add Token Search in Transactionlist
+- optimize some icon´s and positions
+
 ## Version 1.0.0.307
 
 - add SunToken Symbol
