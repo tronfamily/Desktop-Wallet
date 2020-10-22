@@ -1,4 +1,4 @@
-# TRON-Family Desktop Wallet (BETA) Changelog
+# TRON-Family Desktop Wallet - Changelog
 
 ## Version 1.0.0.309
 
