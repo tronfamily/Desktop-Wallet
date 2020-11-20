@@ -5,29 +5,30 @@
       "Precision": 6,
       "TokenID": 1002939,
       "Name": "FAT",
-      "storage": [
-        {
-          "address": "TT1z1Vwgoyag4i4nsKL4Yd6DWtjjwXwyoP"
-        },
-        {
-          "address": "TT-Address2"
-        }
-      ]
-    },
-    {
-      "Issuer": "Walletaddress",
-      "Precision": 4,
-      "TokenID": 1234567,
-      "Name": "TESTTOKEN",
       "TotalSupply": 2000000000,
       "storage": [
         {
-          "address": "storage-address1"
-        },
-        {
-          "address": "storage-address2"
+          "address": "TT1z1Vwgoyag4i4nsKL4Yd6DWtjjwXwyoP"
         }
-      ]
+                 ]
+    },
+    {
+      "Issuer": "TWAESgVRkKW5CKK7BH2E1u2wJuyrh8mTb8",
+      "Precision": 6,
+      "TokenID": 1003360,
+      "Name": "BFHT",
+      "TotalSupply": 300000000,
+      "storage": []
+    },
+    {
+      "Issuer": "TG64S7VDFPbMcpbcfy4n9LxTjuFCDicjPt",
+      "Precision": 4,
+      "TokenID": 1003075,
+      "Name": "TERCPRO",
+      "TotalSupply": 4000000000,
+      "storage": []
     }
+
   ]
 }
+
