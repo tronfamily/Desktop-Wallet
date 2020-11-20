@@ -1,0 +1,18 @@
+{
+  "TRC10": [
+    {
+      "Issuer": "TAsSw8hUddYi8AN8EkDuAMS9r8pkriyUxs",
+      "Precision": 4,
+      "TokenID": 1002939,
+      "Name": "FAT",
+      "storage": [
+        {
+          "address": "TT1z1Vwgoyag4i4nsKL4Yd6DWtjjwXwyoP"
+        },
+        {
+          "address": "THnCkTX1GfDArAuyzzv2nGpDt4vChm8t2e"
+        }
+      ]
+    }
+  ]
+}
