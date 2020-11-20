@@ -2,7 +2,7 @@
   "TRC10": [
     {
       "Issuer": "TAsSw8hUddYi8AN8EkDuAMS9r8pkriyUxs",
-      "Precision": 4,
+      "Precision": 6,
       "TokenID": 1002939,
       "Name": "FAT",
       "storage": [
@@ -10,7 +10,22 @@
           "address": "TT1z1Vwgoyag4i4nsKL4Yd6DWtjjwXwyoP"
         },
         {
-          "address": "THnCkTX1GfDArAuyzzv2nGpDt4vChm8t2e"
+          "address": "TT-Address2"
+        }
+      ]
+    },
+    {
+      "Issuer": "Walletaddress",
+      "Precision": 4,
+      "TokenID": 1234567,
+      "Name": "TESTTOKEN",
+      "TotalSupply": 2000000000,
+      "storage": [
+        {
+          "address": "storage-address1"
+        },
+        {
+          "address": "storage-address2"
         }
       ]
     }
