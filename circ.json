@@ -38,10 +38,10 @@
       "Name": "USDT",
       "storage": [
         {
-          "address": "TESTWALLETADDRESS"
+          "address": "storage-address1"
         },
         {
-          "address": "TESTWALLETADDRESS"
+          "address": "storage-address2"
         }
       ]
     }
