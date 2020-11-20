@@ -36,6 +36,7 @@
       "Issuer": "THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC",
       "Precision": 6,
       "Name": "USDT",
+      "TotalSupply": 0,
       "storage": [
         {
           "address": "storage-address1"
