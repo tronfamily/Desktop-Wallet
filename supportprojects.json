@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "Name": "TRONTrade",
+      "Bandwidth": false,
+      "Energy": true
+    },
+    {
+      "Name": "TE-Reward",
+      "Bandwidth": true,
+      "Energy": false
+    }
+  ]
+}
