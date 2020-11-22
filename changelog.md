@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet - Changelog
 
+## Version 1.0.0.310
+
+- add feature to support projects with bandwidth or energy
+
 ## Version 1.0.0.309
 
 - increase performance token search
