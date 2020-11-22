@@ -2,11 +2,13 @@
   "projects": [
     {
       "Name": "TRONTrade",
+      "Address": "TTuer45Lt3ikwF5cbJsUghQR7NW4CjJ6HS",
       "Bandwidth": false,
       "Energy": true
     },
     {
       "Name": "TE-Reward",
+      "Address": "TWWP1XN9CYNwxYakKoijoiCAScampzQbNg",
       "Bandwidth": true,
       "Energy": false
     }
