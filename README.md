@@ -1,4 +1,4 @@
-# TRON-Family Desktop Wallet (BETA) Overview
+# TRON-Family Desktop Wallet Overview
 
 ## Description
 The TRON-Family Desktop Wallet is an application based on the .NET Framework 4.6.1 and runs on Windows 7, 8, 10, Server 2012, Server 2016 with 32 and 64Bit.
