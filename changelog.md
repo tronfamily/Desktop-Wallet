@@ -1,5 +1,11 @@
 # TRON-Family Desktop Wallet - Changelog
 
+## Version 1.0.0.312
+
+- Adjustment of FAT fees for distribution from 0.015 to 0.007 FAT
+- Separately adjustable FullNode for distribution
+  // Default setting tron-radar.de due to restriction of the query limit of trongrid
+
 ## Version 1.0.0.311
 
 - change fee precalculation (distribution) Proposal #47 #48
