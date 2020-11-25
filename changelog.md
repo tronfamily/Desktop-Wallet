@@ -1,5 +1,11 @@
 # TRON-Family Desktop Wallet - Changelog
 
+## Version 1.0.0.313
+
+- Change Fee_Limit for Transfer from 1TRX to 7TRX
+- Change Fee_Limit for other TRC20 actions from 5TRX to 10TRX
+- Add configuration fields to manually change the Fee_Limits
+
 ## Version 1.0.0.312
 
 - Adjustment of FAT fees for distribution from 0.015 to 0.007 FAT
