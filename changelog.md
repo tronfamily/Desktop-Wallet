@@ -1,5 +1,9 @@
 # TRON-Family Desktop Wallet - Changelog
 
+## Version 1.0.0.314
+
+- Add new feature - Reward delegation addresses (distribution)
+
 ## Version 1.0.0.313
 
 - Change Fee_Limit for Transfer from 1TRX to 7TRX
